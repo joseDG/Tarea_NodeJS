@@ -1,0 +1,5 @@
+1. creamos una carpeta 
+2. abrimos la consola 
+3. escribimos en la consola npm init 
+4. instalar paquetes npm install --save yargs colors 
+5. despues se crea un archivo app.js 
